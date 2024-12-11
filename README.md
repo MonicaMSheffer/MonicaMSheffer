@@ -1,5 +1,5 @@
 ## A little bit about me
-Hi there! I am currently an NSF postdoctoral fellow at UC Berkeley in California, and soon to be an assistant professor at Cal Poly Humboldt, also in California. I study climate change impacts on arthropods across gradients (e.g. latitude, elevation), using a combination of ecological, physiological, molecular and experimental approaches. I am a naturalist and entomologist at heart.  
+I am currently an NSF postdoctoral fellow at UC Berkeley in California, and soon to be an assistant professor at Cal Poly Humboldt, also in California. I study climate change impacts on arthropods across gradients (e.g. latitude, elevation), using a combination of ecological, physiological, molecular and experimental approaches. I am a naturalist and entomologist at heart.  
 
 <!--
 **MonicaMSheffer/MonicaMSheffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
